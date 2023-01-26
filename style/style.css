@@ -206,6 +206,15 @@ body {
     text-align: center !important;
 }
 
+.home-content img {
+    display: block;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid #00638a;
+}
+
 .home-content p {
     text-shadow: 1px 1px 10px #1a1a1a;
 }
